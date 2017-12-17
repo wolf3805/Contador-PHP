@@ -4,6 +4,8 @@
 	<title></title>
 </head>
 <body>
+<h1>Contador de visitas</h1>
+
 <?php
 
 
